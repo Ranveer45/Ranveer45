@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ranveer45
 - 👀 I’m interested in Android Development
-- 🌱 I’m currently learning Pyton/Java
+- 🌱 I’m currently learning Python/Java
 - 💞️ I’m looking to collaborate on anything that's interesting!
 - 📫 How to reach me by calling me on- 6376916840
 
