@@ -2,7 +2,7 @@
 - 👀 I’m interested in Android Development
 - 🌱 I’m currently learning Python/Java
 - 💞️ I’m looking to collaborate on anything that's interesting!
-- 📫 How to reach me by calling me on- 6376916840
+- 📫 How to reach me by calling me on- +916376916840
 
 <!---
 Ranveer45/Ranveer45 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
