@@ -1,10 +1,20 @@
-- 👋 Hi, I’m @Ranveer45
-- 👀 I’m interested in Android Development
-- 🌱 I’m currently learning Python/Java
-- 💞️ I’m looking to collaborate on anything that's interesting!
-- 📫 How to reach me by calling me on- +916376916840
+# Hi 👋 I'm Ranveer
 
-<!---
-Ranveer45/Ranveer45 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Full Stack Developer with 2+ years of experience building enterprise web applications using Angular, TypeScript, and modern frontend technologies.
+
+## 🚀 Tech Stack
+- Angular
+- TypeScript
+- JavaScript
+- HTML/CSS
+- Bootstrap
+- C3.js / D3.js
+- Azure DevOps
+- CI/CD
+- Python
+
+## ☁️ Certifications
+- AZ-900
+- AI-900
+
+Currently exploring Cloud, DevOps, , System Design and scalable architecture.
